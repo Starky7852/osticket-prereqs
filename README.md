@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - download osticket installation files
-- enable iis in windows with cgi
+- enable iis in windows with cgi(control panel)
 - install php manager and rewrite module
 - create php directory
 - install vc_redist and mysql
