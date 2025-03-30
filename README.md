@@ -23,11 +23,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- download osticket installation files
+- enable iis in windows with cgi
+- install php manager and rewrite module
+- create php directory
+- install vc_redist and mysql
+- open iis as admin and register php
+- copy upload folder into inetpup\wwwroot, rename to osTicket
+- enable php imap, intl, opache
+- rename sampleconfig to config
+- assign permissions
+- install heidisql and create session root/root
+- create database osTicket
+- setup osticket in browser
+
 
 <h2>Installation Steps</h2>
 
